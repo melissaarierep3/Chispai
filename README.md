@@ -1,10 +1,25 @@
 # Chispai 🌿
-**Your AI Wellness Companion**  
-*AI-powered gentle coach that helps you build balance without guilt*
+**AI Wellness Companion — Microsoft Agents League Hackathon**
 
-Captura de pantalla 2026-06-14 164942.png
+---
 
-🎬 **[Watch Demo Video]([https://youtu.be/TU_LINK_DEL_VIDEO](https://youtu.be/PDXuixaqCmo?si=Lm26JL3ZkcvlhNFn))**
+## 🎬 Demo Video
+
+[![Chispai Demo](https://img.youtube.com/vi/PDXuixaqCmo/0.jpg)](https://youtu.be/PDXuixaqCmo?si=Lm26JL3ZkcvlhNFn)
+
+> Click the image above to watch the full Chispai demo
+
+---
+
+## What is Chispai?
+
+An AI-powered wellness agent that helps users manage anxiety, 
+build daily habits, and find balance through gamification 
+and zen-inspired design. Bilingual: English & Spanish.
+
+The name blends **"Chispa"** (Guatemalan for inner spark) 
+and **"Pai"** (Japanese for master/guide).
+Together: *the master of your inner spark.*
 
 ---
 
