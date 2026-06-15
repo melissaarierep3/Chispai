@@ -2,8 +2,7 @@
 **Your AI Wellness Companion**  
 *AI-powered gentle coach that helps you build balance without guilt*
 
-![Chispai Hero](https://via.placeholder.com/800x400?text=Chispai+Hero+Image)  
-*(Reemplaza con una captura bonita del dashboard)*
+Captura de pantalla 2026-06-14 164942.png
 
 🎬 **[Watch Demo Video]([https://youtu.be/TU_LINK_DEL_VIDEO](https://youtu.be/PDXuixaqCmo?si=Lm26JL3ZkcvlhNFn))**
 
