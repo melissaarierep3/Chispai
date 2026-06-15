@@ -44,17 +44,6 @@ Existing wellness apps add pressure with rigid streaks and notifications that in
 - **Zen Garden Gamification**: A beautiful bonsai that grows with your real progress (no punishment for imperfect days)
 - **Bilingual Experience**: Fully available in English and Spanish
 
-### Screenshots
-
-![Sunday Planner](image-link)  
-![Monday Itinerary](image-link)  
-![Weekly Review](image-link)  
-![Mindful Breathing](image-link)  
-![Zen Garden](image-link)  
-![Home Dashboard](image-link)
-
-*(Agrega aquí las capturas que me mostraste)*
-
 ---
 
 ### How It Works (Agent Flow)
